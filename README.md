@@ -33,6 +33,24 @@
 
 [吹爆！VIT/BLIP/CLIP/Lora/LLaVA/LLama大模型六大基础模型详解！大模型入门必学！](https://www.bilibili.com/video/BV1g47nzTEAY?p=4&vd_source=09ee16dc45777c7fbcbb424e736d6598)
 
+[UniWorld-V1: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation](https://arxiv.org/abs/2506.03147)
+
+[WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation](https://arxiv.org/abs/2503.07265)
+
+[Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling](https://arxiv.org/abs/2501.17811)
+
+[BAGEL: Bootstrapping Agents by Guiding Exploration with Language](https://arxiv.org/abs/2403.08140)
+
+[Transfer between Modalities with MetaQueries](https://arxiv.org/abs/2504.06256)
+
+[Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
+
+[Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
+
+[High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
+
+[Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
+
 # 生成模型分类
 
 生成模型是当前深度学习研究的重要方向之一，其目标是学习训练数据的潜在分布，并据此生成与原始数据相似的样本。大多数生成模型采用无监督学习的方式，通过大量未标注的数据来建模其内在结构和生成规律。根据建模方式的不同，生成模型可以大致分为两类：**显式生成模型（Explicit Generative Models）**与**隐式生成模型（Implicit Generative Models）**。
