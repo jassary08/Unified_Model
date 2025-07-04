@@ -162,7 +162,7 @@ VAE 与 DDPM 虽然在建模方式上存在显著差异，但其优化目标在�
 
 # Janus-pro
 
-![Januspro](img/Januspro.png)
+![Januspro](img/januspro.png)
 
  Janus-Pro 在架构设计上简单来说就是解耦生成与理解任务，对于不同的任务采用不同的 Image encoder和输出头，更像一个多头专家系统而非 BEGAL 中的 MoT 设计。理解 Encoder 使用 SigLIP 对图像提取语义特征，通过适配器转换为语言模型输入，结合文本 token 用于视觉问答、图文理解等任务；生成 Encoder 使用 VQ 编码器将图像离散为 token 序列，并映射为语言模型输入，指导图像生成与编辑。 
 
